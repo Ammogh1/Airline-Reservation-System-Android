@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/background">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        app:titleTextColor="@color/white"
+        app:title="Add Flight" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="24dp">
+
+            <EditText
+                android:id="@+id/etFlightName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Airline/Flight Name"
+                android:inputType="text"
+                android:layout_marginBottom="16dp"
+                android:padding="12dp"
+                android:background="#DDDDDD"/>
+
+            <EditText
+                android:id="@+id/etSource"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Source"
+                android:inputType="text"
+                android:layout_marginBottom="16dp"
+                android:padding="12dp"
+                android:background="#DDDDDD"/>
+
+            <EditText
+                android:id="@+id/etDestination"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Destination"
+                android:inputType="text"
+                android:layout_marginBottom="16dp"
+                android:padding="12dp"
+                android:background="#DDDDDD"/>
+
+            <EditText
+                android:id="@+id/etTime"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Date &amp; Time (e.g. 2024-12-01 10:00 AM)"
+                android:inputType="text"
+                android:layout_marginBottom="16dp"
+                android:padding="12dp"
+                android:background="#DDDDDD"/>
+
+            <EditText
+                android:id="@+id/etPrice"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Price (e.g. 200)"
+                android:inputType="numberDecimal"
+                android:layout_marginBottom="24dp"
+                android:padding="12dp"
+                android:background="#DDDDDD"/>
+
+            <Button
+                android:id="@+id/btnSaveFlight"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Save Flight"/>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

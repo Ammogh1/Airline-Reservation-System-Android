@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Airline Reservation</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="admin_login">Admin Login</string>
+</resources>

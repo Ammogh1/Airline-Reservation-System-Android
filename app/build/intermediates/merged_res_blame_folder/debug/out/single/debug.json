@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "com.example.airlinereservation.app-merged_res-4:/layout_item_admin_booking.xml.flat",
+        "source": "com.example.airlinereservation.app-main-6:/layout/item_admin_booking.xml"
+    },
+    {
+        "merged": "com.example.airlinereservation.app-merged_res-4:/layout_activity_register.xml.flat",
+        "source": "com.example.airlinereservation.app-main-6:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.airlinereservation.app-merged_res-4:/layout_activity_add_edit_flight.xml.flat",
+        "source": "com.example.airlinereservation.app-main-6:/layout/activity_add_edit_flight.xml"
+    },
+    {
+        "merged": "com.example.airlinereservation.app-merged_res-4:/layout_activity_booking.xml.flat",
+        "source": "com.example.airlinereservation.app-main-6:/layout/activity_booking.xml"
+    },
+    {
+        "merged": "com.example.airlinereservation.app-merged_res-4:/layout_item_flight.xml.flat",
+        "source": "com.example.airlinereservation.app-main-6:/layout/item_flight.xml"
+    },
+    {
+        "merged": "com.example.airlinereservation.app-merged_res-4:/layout_activity_flight_results.xml.flat",
+        "source": "com.example.airlinereservation.app-main-6:/layout/activity_flight_results.xml"
+    },
+    {
+        "merged": "com.example.airlinereservation.app-merged_res-4:/layout_activity_login.xml.flat",
+        "source": "com.example.airlinereservation.app-main-6:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.airlinereservation.app-merged_res-4:/layout_activity_home.xml.flat",
+        "source": "com.example.airlinereservation.app-main-6:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.airlinereservation.app-merged_res-4:/drawable_ic_plane.xml.flat",
+        "source": "com.example.airlinereservation.app-main-6:/drawable/ic_plane.xml"
+    },
+    {
+        "merged": "com.example.airlinereservation.app-merged_res-4:/layout_activity_splash.xml.flat",
+        "source": "com.example.airlinereservation.app-main-6:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.airlinereservation.app-merged_res-4:/layout_activity_my_tickets.xml.flat",
+        "source": "com.example.airlinereservation.app-main-6:/layout/activity_my_tickets.xml"
+    },
+    {
+        "merged": "com.example.airlinereservation.app-merged_res-4:/layout_activity_admin_dashboard.xml.flat",
+        "source": "com.example.airlinereservation.app-main-6:/layout/activity_admin_dashboard.xml"
+    },
+    {
+        "merged": "com.example.airlinereservation.app-merged_res-4:/layout_activity_admin_view_bookings.xml.flat",
+        "source": "com.example.airlinereservation.app-main-6:/layout/activity_admin_view_bookings.xml"
+    },
+    {
+        "merged": "com.example.airlinereservation.app-merged_res-4:/layout_activity_flight_search.xml.flat",
+        "source": "com.example.airlinereservation.app-main-6:/layout/activity_flight_search.xml"
+    },
+    {
+        "merged": "com.example.airlinereservation.app-merged_res-4:/layout_item_ticket.xml.flat",
+        "source": "com.example.airlinereservation.app-main-6:/layout/item_ticket.xml"
+    }
+]
