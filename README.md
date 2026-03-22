@@ -4,7 +4,7 @@ A comprehensive Android application built with Java that allows users to search 
 
 ## Screenshots 📸
 
-*(Add your screenshots to the `screenshots` folder and replace these placeholders)*
+
 
 | User Login | Flight Search | Blocked Tickets |
 | :---: | :---: | :---: |
